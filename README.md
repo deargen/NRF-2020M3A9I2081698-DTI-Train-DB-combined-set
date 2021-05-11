@@ -35,5 +35,5 @@ fasta               |fasta sequence of protein. For viruses, curated fasta is us
 organism       |orgaism of protein
 reaction_id       |reaction id provided from binidngDB
 measure        |end point of each pair
-value (nM)        |interaction values of each pair
+value (nM)        |interaction values of each pair in nM unit
 pubmed     |pubmed id of each pair. if openDB didn't provide id, it shows as '-'
